@@ -4,7 +4,6 @@ A simple blog made with Django, following the Django Girls tutorial.
 I want to add more features soon and change the layout and styling, making it grow into a somewhat more personal project while I learn more about Django.
 I might just include the things taught in the extended tutorial and personalise the styling, though, if I decide to begin another project from scratch.
 
-You can check it here: http://vonhappatsch.pythonanywhere.com/
 
 # Wanna try it?
 If you're interested in learning Django, their tutorial is a great resource: https://tutorial.djangogirls.org/en/
